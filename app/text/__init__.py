@@ -1,0 +1,1 @@
+from .routes import text_bp
